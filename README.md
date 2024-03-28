@@ -4,7 +4,7 @@
 
 <p align="left" width=50%>
     <!-- <img src="https://miro.medium.com/v2/resize:fit:1358/1*aWfzGAC6BvHQ3kh-ZbVNxg.jpeg" alt="Ramayan Pic from Wikipedia" width="60%" height="60%"> -->
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*aWfzGAC6BvHQ3kh-ZbVNxg.jpeg" alt="Ramayan Pic from Wikipedia">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*aWfzGAC6BvHQ3kh-ZbVNxg.jpeg" alt="Machine Learning Tree">
 </p>
 
 This repository is dedicated to the implementation of classical machine learning algorithms from scratch, without the use of external libraries. The goal is to provide a clear and educational resource for understanding the inner workings of these algorithms.
@@ -25,7 +25,7 @@ This repository is dedicated to the implementation of classical machine learning
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/classical_ml_algorithms.git
+    git clone https://github.com/NikhilKrSharma/classical_ml_algorithms.git
     cd classical_ml_algorithms
     ```
 
